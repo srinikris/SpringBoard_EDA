@@ -1,4 +1,5 @@
 # SpringBoard_EDA
 EDA Projects
 
-This directory contains all the files that needed for the "Human Body Temperature Using EDA" project 
+The sub-directory human_temp contains all the files that needed for the "Human Body Temperature Using EDA" SpringBoard Project.
+The data file(s) are present in the corresponding sub-directory.
